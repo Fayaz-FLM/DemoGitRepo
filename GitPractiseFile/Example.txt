@@ -5,3 +5,4 @@ New line added by Fayaz
 Repo is successfully and i am adding one more commit
 
 This is for patch file
+Added new line

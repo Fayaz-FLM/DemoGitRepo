@@ -1,0 +1,13 @@
+diff --git a/GitPractiseFile/Example.txt b/GitPractiseFile/Example.txt
+index dd352ae..6ff1261 100644
+--- a/GitPractiseFile/Example.txt
++++ b/GitPractiseFile/Example.txt
+@@ -4,4 +4,5 @@ New line added by Fayaz
+ 
+ Repo is successfully and i am adding one more commit
+ 
+-This is for patch file
+\ No newline at end of file
++This is for patch file
++Added new line
+\ No newline at end of file
